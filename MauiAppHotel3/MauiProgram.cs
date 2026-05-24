@@ -13,6 +13,7 @@ namespace MauiAppHotel3
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
+                    fonts.AddFont("Jost-Italic-VariableFont_wght.ttf", "JostItalicVariable");
                 });
 
 #if DEBUG
