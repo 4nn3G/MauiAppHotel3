@@ -8,5 +8,9 @@ namespace MauiAppHotel3.Views
         {
             InitializeComponent();
         }
+        private void InitializeComponent()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
